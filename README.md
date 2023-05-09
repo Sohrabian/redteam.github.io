@@ -2,65 +2,97 @@
 The Offensive MindMap for BlueTeam and Malware Analysis for map cyber ware and have fun with his Report.
 > RedTeam Mindset for BlueTeaming and Have fun in Real Scenario - Agenda: 
 1. Intro Exchange 2k19 and the Version of has Vulen
-2. Config DC
-3. Config ssh Client and Server
-4. Config Exchange Server and Final Attack
-4-1. Solve Problem of installing Exchange Server
-5. External Recon and Waponize your Exploit 
-6. Ms-17-010 Config Vulen Environment (use this Techniqu for Internal Recon)
-6-1. Practice- Ms-17-010 and Wireshark together and Capture the Traffic by our own
-7. Meterpreter
-8. Post Explotation Postmodule
-9. HashCat
-10. john The Ripper
-11. Using Mssfvenom Create Backdoor
-12. Bypass UAC Win10
-13. Priviledge Escalation Using FODHelper.exe
-14. RedTeam and BlueTeam in Mitre
-15. RedTeam Exercise 
-16. Install WinRM 
-17. Intro Powershell Empire
-18. Install Splunk and his DataSet Attack Only
-19. Threat Hunting Powershell Empire (agent)
-20-01. Regax
-20-02. Regax
-21-03. Regax
-22. Initial Compromise part 01
-23. Initial Compromise part 02
-24. Initial Compromise part 03 Based on Follina CVE 2022 
-25. Foodholding Persistence
-26. Privilege Escalation 
-27. Moving Laterlly and Maintain
-28. Data Exfiltration
-29. Psexec Remote Connection Exploit 
-30. LMNR Nbt Ns Attack
-31. NTLM and SMB Relay Attack Beside IPV6 Attack
-32. LLMNR Posoning
-33. Using Wireshark To Analysis LLMNR Posoning Attack
-34. SMB Rellay Attack
-35. Shell Access Via SMB Relay 
-36. Exploit Psexec 
-37. Exploit Psexec using Impackt Psecex Python
-38. Intro IPV6 Attack
-39. DNS Spoofing Using MITM6 Ntlmrelayx
-40. Dump Username Pass Lootdir
-41. IPV6 attack (Add New User to DC wpad Proxy)
-42. Intro AD Enumeration
-43. Internal Recon Create Wordlist APT
-44. AD Enumeration Using PowerView(as a part of PowerSploit Toolkit)
-45. Bloodhund and Sharphound
-46. Situational_awarnes using Empire Post module
-47. AD Enumeration Using Empire and SharpHound
-48. Final RedTeam and AD Attack
-49. DLL Injection using Safe Search DLL Order Bypass LIKE APT for persistence -Part01
-50. DLL Injection Using Safe Search DLL Order Bypass LIKE APT for persistence -Part02
-51. DLL Proxing (Coming Soon ...)
-52. DLL Relaction (Coming Soon ...)
-53. Remote Process Injection (Shell Code Runner) Like APT (Coming Soon ...)
-54. Overview of Memory Forensic Writeup to Detect DLL Injection and Remote Process Injection using windows Sysinternals (Coming Soon ...)
-55. Overview Of Dark Pink APT Group and His DeathNote (Coming Soon ...)
-56. Config Our Defensive LAB for Detect APT Delivery and Thier Persistence Using ELK (Coming Soon ...)
-57. Sysmon as Threat Hunter tools (Coming Soon ...)
-58. OverView of Sysmon Rules (Coming Soon ...)
-59. Sysmon and Detect The Apt campaign (Coming Soon ...)
-60. Sysmon and kill his Driver and Logs (Coming Soon ...)
+  - Config DC
+  - Config ssh Client and Server
+  - Config Exchange Server and Final Attack
+  - Solve Problem of installing Exchange Server
+2. External Recon and Waponize your Exploit 
+  - Ms-17-010 Config Vulen Environment (use this Techniqu for Internal Recon)
+  - Practice- Ms-17-010 and Wireshark together and Capture the Traffic by our own
+3. Meterpreter
+  - Post Explotation Postmodule
+4. Crack Password
+  - HashCat
+  - john The Ripper
+5. Using Mssfvenom Create Backdoor
+  - Bypass UAC Win10
+  - Priviledge Escalation Using FODHelper.exe
+6. Active Directory Attack Based on Empire C2 Server (CKC & MITRE In Depth with Real Scenario)
+- RedTeam and BlueTeam in Mitre
+-  RedTeam Exercise 
+- Install WinRM 
+- Intro Powershell Empire
+- Install Splunk and his DataSet Attack Only
+- Threat Hunting Powershell Empire (agent)
+- Regax (Challenge-01)
+- Regax (Challenge-02)
+- Regax (Challenge-03)
+- Initial Compromise part 01
+- Initial Compromise part 02
+- Initial Compromise part 03 Based on Follina CVE 2022 
+- Foodholding Persistence
+- Privilege Escalation 
+- Moving Laterlly and Maintain
+- Data Exfiltration
+- Psexec Remote Connection Exploit 
+- LMNR Nbt Ns Attack
+- NTLM and SMB Relay Attack Beside IPV6 Attack
+- LLMNR Posoning
+- Using Wireshark To Analysis LLMNR Posoning Attack
+- SMB Rellay Attack
+  - Shell Access Via SMB Relay 
+  - Exploit Psexec 
+  - Exploit Psexec using Impackt Psecex Python
+- Intro IPV6 Attack
+  - DNS Spoofing Using MITM6 Ntlmrelayx
+  - Dump Username Pass Lootdir
+  - IPV6 attack (Add New User to DC wpad Proxy)
+- Intro AD Enumeration
+  - Internal Recon Create Wordlist APT
+  - AD Enumeration Using PowerView(as a part of PowerSploit Toolkit)
+  - Bloodhund and Sharphound
+  - Situational_awarnes using Empire Post module
+  - AD Enumeration Using Empire and SharpHound
+  - Final RedTeam and AD Attack
+8. Fileless Malware Technique Like PRO (Noisy Techique and False Positive logs for SOC Team They don't Like) - Programming Malware using C/C++
+  - Remote Process Injection 
+    - Shell Code Runner Like APT (Coming Soon ...)
+    - DLL Injection using Safe Search DLL Order Bypass LIKE APT for persistence -Part01
+    - DLL Injection Using Safe Search DLL Ordypass LIKE APT for persistence -Part02
+    - DLL Proxing (Coming Soon ...)
+    - DLL Relaction (Coming Soon ...)
+    - Overview of Memory Forensic Writeup to Detect DLL Injection and Remote Process Injection using windows Sysinternals (Coming Soon ...)
+    - Token impersonate and Review Pass-The-Hash/Pass-The-Ticket (Coming Soon) 
+    - WMI\CIM Persistence Like PRO
+    - WMI\CIM lateral movement using USB Pluged
+    - WMI\CIM DNS data exfiltration using DnsCat
+9. Overview Of Dark Pink APT Group and His DeathNote (Coming Soon ...)
+10. Config Our Defensive LAB for Detect APT Delivery and Thier Persistence 
+  - Using ELK (Coming Soon ...)
+    - Install ELK
+    - Config WinlogBeat and so on
+  - Using SPLUNK
+    - Install SPLUNK and Let's Crack his License
+    - Install UF
+    - Install Sysmon
+    - Forward Sysmon Log
+    - Challenge 01 -Luanch Follina Attack and Trace his Logs
+11. Sysmon as Threat Hunter tools (Coming Soon ...)
+    - OverView of Sysmon Rules (Coming Soon ...)
+    - Sysmon and Detect The Apt campaign (Coming Soon ...)
+    - Sysmon and kill his Driver and Logs (Coming Soon ...)
+12. AMSI (Coming Soon ...)
+  - AMSI Intro
+  - AMSI Bypass using Empire C2 - just Review and Hint
+  - AMSI Bypass Technique Using C#
+13. Chanllengs For RedTeamers
+   - Programming Reverse Shell like C2 Agent using C++ - Phase-1  (5 Hours)
+      - Programming Reverse Shell and Delivery
+      - Programming KeyLoger
+      - Programming Persistence using Registry key Value
+      - Let's change the Binery Code for less sence
+   - Programming Just C2 Agent uing C++ and Detect his logs using SPLUNK/ELK - Phase 2 (Comming Soon)
+   - Programming Delivery Phase of Hack using Multi Languages - Phase 3 (Comming Soon)
+      - Python as Listener 
+      - C# as PayLoad (Rverse Shell Connection)
+      - PowerShell as Invoke your Payload 
