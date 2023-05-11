@@ -97,4 +97,4 @@ The Offensive MindMap for BlueTeam and Malware Analysis for map cyber ware and h
       - C# as PayLoad (Rverse Shell Connection)
       - PowerShell as Invoke your Payload 
 14. Challenges for Incident Response Team/Forensic (based On TTP MITRE)
-      - How Left the Backdoor Open? 
+      - How Left the Backdoor Opened? 
