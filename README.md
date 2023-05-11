@@ -85,7 +85,7 @@ The Offensive MindMap for BlueTeam and Malware Analysis for map cyber ware and h
   - AMSI Intro
   - AMSI Bypass using Empire C2 - just Review and Hint
   - AMSI Bypass Technique Using C#
-13. Chanllengs For RedTeamers
+13. Challengs For RedTeamers
    - Programming Reverse Shell like C2 Agent using C++ - Phase-1  (5 Hours)
       - Programming Reverse Shell and Delivery
       - Programming KeyLoger
@@ -96,3 +96,5 @@ The Offensive MindMap for BlueTeam and Malware Analysis for map cyber ware and h
       - Python as Listener 
       - C# as PayLoad (Rverse Shell Connection)
       - PowerShell as Invoke your Payload 
+14. Challenges for Incident Response Team (based On TTP MITRE)
+      - How Left the Backdoor Open? 
