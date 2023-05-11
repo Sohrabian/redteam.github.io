@@ -96,5 +96,5 @@ The Offensive MindMap for BlueTeam and Malware Analysis for map cyber ware and h
       - Python as Listener 
       - C# as PayLoad (Rverse Shell Connection)
       - PowerShell as Invoke your Payload 
-14. Challenges for Incident Response Team (based On TTP MITRE)
+14. Challenges for Incident Response Team/Forensic (based On TTP MITRE)
       - How Left the Backdoor Open? 
